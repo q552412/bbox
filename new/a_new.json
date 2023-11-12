@@ -1,0 +1,874 @@
+{
+  "code": 200,
+  "message": "ok",
+  "data": {
+    "id": 4864900,
+    "create_user_id": 499977,
+    "user_num": 4,
+    "box_num": 2,
+    "total_bean": "111.08",
+    "game_type": 1,
+    "status": 0,
+    "win_user_id": null,
+    "draw_code": null,
+    "bot_id": 0,
+    "created_at": "2023-10-28 09:21:25",
+    "updated_at": "2023-10-28 09:21:25",
+    "play_type": 1,
+    "designated_bot_id": 0,
+    "is_anchor": 0,
+    "total_award_bean": "0.00",
+    "current_round": 0,
+    "status_alias": "\u7b49\u5f85\u4e2d",
+    "game_arena_player": [
+      {
+        "id": 11849972,
+        "game_arena_id": 4864900,
+        "user_id": 475045,
+        "seat": 2,
+        "game_award": [
+          {
+            "id": 31368907,
+            "game_arena_id": 4864900,
+            "user_id": 475045,
+            "box_id": 340,
+            "award_id": 22599,
+            "status": 0,
+            "award_bean": 0,
+            "level": 4,
+            "box": {
+              "id": 340,
+              "type": 0,
+              "name": "\u8d85\u7fa4\u7edd\u4f26",
+              "intact_cover": "",
+              "bean": "48.20",
+              "game_bean": "0.00"
+            },
+            "skins": {
+              "id": 0,
+              "name": "",
+              "cover": "",
+              "dura": 0,
+              "bean": 0,
+              "dura_alias": 0
+            }
+          },
+          {
+            "id": 31368908,
+            "game_arena_id": 4864900,
+            "user_id": 475045,
+            "box_id": 385,
+            "award_id": 18379,
+            "status": 0,
+            "award_bean": 0,
+            "level": 5,
+            "box": {
+              "id": 385,
+              "type": 0,
+              "name": "\u4e94\u5f69\u6591\u6593",
+              "intact_cover": "",
+              "bean": "62.88",
+              "game_bean": "0.00"
+            },
+            "skins": {
+              "id": 0,
+              "name": "",
+              "cover": "",
+              "dura": 0,
+              "bean": 0,
+              "dura_alias": 0
+            }
+          }
+        ],
+        "user": {
+          "id": 475045,
+          "name": "\u65e0\u826f\u5370\u54c1",
+          "avatar": "https:\/\/api.mocsgo.com\/uploads\/default_avatar\/4.jpg"
+        }
+      },
+      {
+        "id": 11849967,
+        "game_arena_id": 4864900,
+        "user_id": 475094,
+        "seat": 3,
+        "game_award": [
+          {
+            "id": 31368898,
+            "game_arena_id": 4864900,
+            "user_id": 475094,
+            "box_id": 340,
+            "award_id": 11302,
+            "status": 0,
+            "award_bean": 0,
+            "level": 5,
+            "box": {
+              "id": 340,
+              "type": 0,
+              "name": "\u8d85\u7fa4\u7edd\u4f26",
+              "intact_cover": "",
+              "bean": "48.20",
+              "game_bean": "0.00"
+            },
+            "skins": {
+              "id": 0,
+              "name": "",
+              "cover": "",
+              "dura": 0,
+              "bean": 0,
+              "dura_alias": 0
+            }
+          },
+          {
+            "id": 31368899,
+            "game_arena_id": 4864900,
+            "user_id": 475094,
+            "box_id": 385,
+            "award_id": 14342,
+            "status": 0,
+            "award_bean": 0,
+            "level": 3,
+            "box": {
+              "id": 385,
+              "type": 0,
+              "name": "\u4e94\u5f69\u6591\u6593",
+              "intact_cover": "",
+              "bean": "62.88",
+              "game_bean": "0.00"
+            },
+            "skins": {
+              "id": 0,
+              "name": "",
+              "cover": "",
+              "dura": 0,
+              "bean": 0,
+              "dura_alias": 0
+            }
+          }
+        ],
+        "user": {
+          "id": 475094,
+          "name": "\u518d\u4e0d\u7ed9\u56de\u8840\u4e0d\u51b2",
+          "avatar": "https:\/\/api.mocsgo.com\/uploads\/default_avatar\/21.jpg"
+        }
+      },
+      {
+        "id": 11849962,
+        "game_arena_id": 4864900,
+        "user_id": 499977,
+        "seat": 0,
+        "game_award": [
+          {
+            "id": 31368891,
+            "game_arena_id": 4864900,
+            "user_id": 499977,
+            "box_id": 340,
+            "award_id": 7799,
+            "status": 0,
+            "award_bean": 0,
+            "level": 4,
+            "box": {
+              "id": 340,
+              "type": 0,
+              "name": "\u8d85\u7fa4\u7edd\u4f26",
+              "intact_cover": "",
+              "bean": "48.20",
+              "game_bean": "0.00"
+            },
+            "skins": {
+              "id": 0,
+              "name": "",
+              "cover": "",
+              "dura": 0,
+              "bean": 0,
+              "dura_alias": 0
+            }
+          },
+          {
+            "id": 31368892,
+            "game_arena_id": 4864900,
+            "user_id": 499977,
+            "box_id": 385,
+            "award_id": 24324,
+            "status": 0,
+            "award_bean": 0,
+            "level": 4,
+            "box": {
+              "id": 385,
+              "type": 0,
+              "name": "\u4e94\u5f69\u6591\u6593",
+              "intact_cover": "",
+              "bean": "62.88",
+              "game_bean": "0.00"
+            },
+            "skins": {
+              "id": 0,
+              "name": "",
+              "cover": "",
+              "dura": 0,
+              "bean": 0,
+              "dura_alias": 0
+            }
+          }
+        ],
+        "user": {
+          "id": 499977,
+          "name": "\u7528\u62377408",
+          "avatar": "https:\/\/api.mocsgo.com\/uploads\/default_avatar\/75.jpg"
+        }
+      }
+    ],
+    "game_arena_box": [
+      {
+        "id": 12531032,
+        "game_arena_id": 4864900,
+        "box_id": 340,
+        "box": {
+          "id": 340,
+          "type": 0,
+          "name": "\u8d85\u7fa4\u7edd\u4f26",
+          "bean": "48.20",
+          "game_bean": "0.00",
+          "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/box\/309a8f80a4adedfec58e0b62495dc9ef.png",
+          "weapon_cover": "https:\/\/api.mocsgo.com\/uploads\/images\/box\/c4dec2065a005c40c874de688295501f.png",
+          "intact_cover": "",
+          "contains": [
+            {
+              "id": 19343,
+              "box_id": 340,
+              "skin_id": 12374,
+              "level": 1,
+              "skins": {
+                "id": 12374,
+                "name": "M4A1 \u6d88\u97f3\u578b | \u4f0a\u5361\u6d1b\u65af\u6b92\u843d",
+                "bean": "3061.59",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/cb1f5415b95d564151bcad9275518e1b.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 19344,
+              "box_id": 340,
+              "skin_id": 14511,
+              "level": 1,
+              "skins": {
+                "id": 14511,
+                "name": "\u6469\u6258\u624b\u5957\uff08\u2605\uff09 | \u73b3\u7441",
+                "bean": "2242.80",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/05f1f045e76ab58dd983b8a79302cd84.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 19345,
+              "box_id": 340,
+              "skin_id": 12147,
+              "level": 1,
+              "skins": {
+                "id": 12147,
+                "name": "AK-47 | \u706b\u795e",
+                "bean": "1435.39",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/90e5f42fb21b9289e2162fbe35885cfc.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16341,
+              "box_id": 340,
+              "skin_id": 12026,
+              "level": 1,
+              "skins": {
+                "id": 12026,
+                "name": "M4A4 | \u7687\u5e1d",
+                "bean": "905.54",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/05f531b6192cd5453a0c38a95f188037.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 16343,
+              "box_id": 340,
+              "skin_id": 12007,
+              "level": 2,
+              "skins": {
+                "id": 12007,
+                "name": "AK-47 | \u8840\u8165\u8fd0\u52a8",
+                "bean": "762.55",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/08e623a8fef5e0a9ee1bd7cd527b1afd.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 16346,
+              "box_id": 340,
+              "skin_id": 12070,
+              "level": 2,
+              "skins": {
+                "id": 12070,
+                "name": "M4A4 | \u7687\u5bb6\u5723\u9a91\u58eb",
+                "bean": "646.14",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/29645e60a022b43e280d19f8a90f2b6e.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 16345,
+              "box_id": 340,
+              "skin_id": 12014,
+              "level": 2,
+              "skins": {
+                "id": 12014,
+                "name": "M4A1 \u6d88\u97f3\u578b | \u5370\u82b1\u96c6",
+                "bean": "642.94",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/7e1b97abaabd66f8a7e3a616a3f0ac4c.png",
+                "dura": 5,
+                "dura_alias": "\u6218\u75d5\u7d2f\u7d2f"
+              }
+            },
+            {
+              "id": 16351,
+              "box_id": 340,
+              "skin_id": 14481,
+              "level": 2,
+              "skins": {
+                "id": 14481,
+                "name": "\u6469\u6258\u624b\u5957\uff08\u2605\uff09 | \u4ea4\u8fd0",
+                "bean": "490.75",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/e6b67d3883db6562a2b51a011e8b2918.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16350,
+              "box_id": 340,
+              "skin_id": 14547,
+              "level": 2,
+              "skins": {
+                "id": 14547,
+                "name": "\u9a7e\u9a76\u624b\u5957\uff08\u2605\uff09 | \u7f8e\u6d32\u8c79\u5973\u738b",
+                "bean": "466.71",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/95e56c75d1e35c040ea11c1521fc4a8d.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16364,
+              "box_id": 340,
+              "skin_id": 12165,
+              "level": 2,
+              "skins": {
+                "id": 12165,
+                "name": "AWP | \u66b4\u6012\u91ce\u517d",
+                "bean": "351.36",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/d568ff3216c70efd7c03dc22bb52e67e.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16366,
+              "box_id": 340,
+              "skin_id": 12025,
+              "level": 2,
+              "skins": {
+                "id": 12025,
+                "name": "M4A1 \u6d88\u97f3\u578b | \u91d1\u86c7\u7f20\u7ed5",
+                "bean": "315.06",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/b7d0c9cab608024d4b1d0da182b26c90.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16367,
+              "box_id": 340,
+              "skin_id": 12371,
+              "level": 2,
+              "skins": {
+                "id": 12371,
+                "name": "AWP | \u7535\u5b50\u8702\u5de2",
+                "bean": "266.98",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/9d122708dbfe9ec62e35b39110346eb0.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16352,
+              "box_id": 340,
+              "skin_id": 22550,
+              "level": 2,
+              "skins": {
+                "id": 22550,
+                "name": "USP \u6d88\u97f3\u7248 | \u5370\u82b1\u96c6",
+                "bean": "240.29",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/78231f5cabb6fa190a547e0296e3df04.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16370,
+              "box_id": 340,
+              "skin_id": 12069,
+              "level": 2,
+              "skins": {
+                "id": 12069,
+                "name": "AK-47 | \u9713\u8679\u9a91\u58eb",
+                "bean": "196.51",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/b5624223cd0472e6ebc31b289b9d0b5d.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 8809,
+              "box_id": 340,
+              "skin_id": 12311,
+              "level": 3,
+              "skins": {
+                "id": 12311,
+                "name": "M4A1 \u6d88\u97f3\u578b | \u673a\u68b0\u5de5\u4e1a",
+                "bean": "163.40",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/59d87956b4e9bcf9eb3d30b6aec3769e.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16371,
+              "box_id": 340,
+              "skin_id": 12039,
+              "level": 3,
+              "skins": {
+                "id": 12039,
+                "name": "AWP | \u9ed1\u8272\u9b45\u5f71",
+                "bean": "160.20",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/16825dcdae3f0fc9708111e530bc6969.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 18220,
+              "box_id": 340,
+              "skin_id": 12047,
+              "level": 3,
+              "skins": {
+                "id": 12047,
+                "name": "AK-47 | \u9713\u8679\u9769\u547d",
+                "bean": "92.81",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/6c8b6cbe77ea4443dbbc5ebc0ce33774.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16850,
+              "box_id": 340,
+              "skin_id": 12166,
+              "level": 3,
+              "skins": {
+                "id": 12166,
+                "name": "AK-47 | \u6df7\u6c8c\u70b9\u9635",
+                "bean": "92.21",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/0cc2e7dfa330cd0fb62daae4876fb096.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 8808,
+              "box_id": 340,
+              "skin_id": 20467,
+              "level": 3,
+              "skins": {
+                "id": 20467,
+                "name": "AK-47 | \u591c\u613f",
+                "bean": "85.33",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/754ecce5ac14d8cb0c4c37a3a0e0946e.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 14132,
+              "box_id": 340,
+              "skin_id": 14326,
+              "level": 4,
+              "skins": {
+                "id": 14326,
+                "name": "M4A4 | \u9ed1\u8272\u9b45\u5f71",
+                "bean": "77.85",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/45bc725f6de31d72d0e0ac47a9cef70d.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 11672,
+              "box_id": 340,
+              "skin_id": 7799,
+              "level": 4,
+              "skins": {
+                "id": 7799,
+                "name": "P90 | \u4e8c\u897f\u83ab\u592b",
+                "bean": "50.94",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/c5daf296005ccdd2746c7da259bc91e8.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 14131,
+              "box_id": 340,
+              "skin_id": 22599,
+              "level": 4,
+              "skins": {
+                "id": 22599,
+                "name": "AK-47 | \u53ef\u71c3\u51b0",
+                "bean": "42.70",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/c3d44f5008ec41b0192e27db03295b1f.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 19346,
+              "box_id": 340,
+              "skin_id": 12033,
+              "level": 5,
+              "skins": {
+                "id": 12033,
+                "name": "M4A4 | \u6740\u610f\u5927\u540d",
+                "bean": "19.12",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/690a251c3e1c9c0d5ceecdcd66ec14a9.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 19289,
+              "box_id": 340,
+              "skin_id": 12369,
+              "level": 5,
+              "skins": {
+                "id": 12369,
+                "name": "AK-47 | \u7cbe\u82f1\u4e4b\u4f5c",
+                "bean": "9.25",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/bcf1183b83f29798f14df4c1f00a520e.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 14287,
+              "box_id": 340,
+              "skin_id": 11302,
+              "level": 5,
+              "skins": {
+                "id": 11302,
+                "name": "2020 RMR \u4f20\u5947\u7ec4\u6218\u961f\u80f6\u56ca",
+                "bean": "1.53",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/1d07fd43295423ea1ec852c48003c9ba.png",
+                "dura": 0,
+                "dura_alias": "\u65e0"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 12531033,
+        "game_arena_id": 4864900,
+        "box_id": 385,
+        "box": {
+          "id": 385,
+          "type": 0,
+          "name": "\u4e94\u5f69\u6591\u6593",
+          "bean": "62.88",
+          "game_bean": "0.00",
+          "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/box\/99d822e802d3f7d3754631db74bcac23.png",
+          "weapon_cover": "https:\/\/api.mocsgo.com\/uploads\/images\/box\/e6fe2ea279c26a22922deac231af0154.png",
+          "intact_cover": "",
+          "contains": [
+            {
+              "id": 18087,
+              "box_id": 385,
+              "skin_id": 3852,
+              "level": 1,
+              "skins": {
+                "id": 3852,
+                "name": "\u718a\u5200\uff08\u2605\uff09 | \u6e10\u53d8\u4e4b\u8272",
+                "bean": "5211.84",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/dd464935a057800ac6a166765dcc0e46.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 18126,
+              "box_id": 385,
+              "skin_id": 4626,
+              "level": 1,
+              "skins": {
+                "id": 4626,
+                "name": "\u952f\u9f7f\u722a\u5200\uff08\u2605\uff09 | \u81f4\u547d\u7d2b\u7f57\u5170",
+                "bean": "2937.00",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/940a539d70e706a8e743598ee67303ad.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16574,
+              "box_id": 385,
+              "skin_id": 12117,
+              "level": 1,
+              "skins": {
+                "id": 12117,
+                "name": "AWP | \u77f3\u58a8\u9ed1",
+                "bean": "1046.64",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/32e01196a835128247e010c5f8f2dfba.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 13392,
+              "box_id": 385,
+              "skin_id": 12026,
+              "level": 1,
+              "skins": {
+                "id": 12026,
+                "name": "M4A4 | \u7687\u5e1d",
+                "bean": "905.54",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/05f531b6192cd5453a0c38a95f188037.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 13393,
+              "box_id": 385,
+              "skin_id": 14555,
+              "level": 2,
+              "skins": {
+                "id": 14555,
+                "name": "\u6469\u6258\u624b\u5957\uff08\u2605\uff09 | \u562d\uff01",
+                "bean": "693.67",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/e773b1b89a677e0b96138ec278f14e20.png",
+                "dura": 5,
+                "dura_alias": "\u6218\u75d5\u7d2f\u7d2f"
+              }
+            },
+            {
+              "id": 16579,
+              "box_id": 385,
+              "skin_id": 20453,
+              "level": 2,
+              "skins": {
+                "id": 20453,
+                "name": "AK-47 | \u591c\u613f",
+                "bean": "667.50",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/ca34694078a46033a78a495e87a91e79.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 16581,
+              "box_id": 385,
+              "skin_id": 12596,
+              "level": 2,
+              "skins": {
+                "id": 12596,
+                "name": "AK-47 | \u6df1\u6d77\u590d\u4ec7",
+                "bean": "624.25",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/674394f97dc478b06e03140c1927e559.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 16583,
+              "box_id": 385,
+              "skin_id": 12471,
+              "level": 2,
+              "skins": {
+                "id": 12471,
+                "name": "AK-47 | \u7ea2\u7ebf",
+                "bean": "465.65",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/78f1b6d20a0e4a934d1add8c4db6a301.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16584,
+              "box_id": 385,
+              "skin_id": 12025,
+              "level": 3,
+              "skins": {
+                "id": 12025,
+                "name": "M4A1 \u6d88\u97f3\u578b | \u91d1\u86c7\u7f20\u7ed5",
+                "bean": "315.06",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/b7d0c9cab608024d4b1d0da182b26c90.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 14533,
+              "box_id": 385,
+              "skin_id": 12049,
+              "level": 3,
+              "skins": {
+                "id": 12049,
+                "name": "AWP | \u65e0\u754f\u6218\u795e",
+                "bean": "199.15",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/41315a6c03ba7767b78f698af18c43f1.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16585,
+              "box_id": 385,
+              "skin_id": 12039,
+              "level": 3,
+              "skins": {
+                "id": 12039,
+                "name": "AWP | \u9ed1\u8272\u9b45\u5f71",
+                "bean": "160.20",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/16825dcdae3f0fc9708111e530bc6969.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16586,
+              "box_id": 385,
+              "skin_id": 12064,
+              "level": 3,
+              "skins": {
+                "id": 12064,
+                "name": "AK-47 | \u9713\u8679\u9769\u547d",
+                "bean": "160.07",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/99c29c2c4787f249e18964c92265ffbf.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16589,
+              "box_id": 385,
+              "skin_id": 12684,
+              "level": 3,
+              "skins": {
+                "id": 12684,
+                "name": "AK-47 | \u5361\u7279\u5c14",
+                "bean": "144.18",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/4fba11b007cbacaf025f5077376998c9.png",
+                "dura": 1,
+                "dura_alias": "\u5d2d\u65b0\u51fa\u5382"
+              }
+            },
+            {
+              "id": 17224,
+              "box_id": 385,
+              "skin_id": 12158,
+              "level": 3,
+              "skins": {
+                "id": 12158,
+                "name": "M4A1 \u6d88\u97f3\u578b | \u66b4\u6012\u91ce\u517d",
+                "bean": "136.16",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/2351a3ed8dfce5f1b2eae84050091008.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 18222,
+              "box_id": 385,
+              "skin_id": 14342,
+              "level": 3,
+              "skins": {
+                "id": 14342,
+                "name": "AWP | \u72ee\u5b50\u4e4b\u65e5",
+                "bean": "114.28",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/390fb97c67a6c5311d5e3b7b4a58da15.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 13398,
+              "box_id": 385,
+              "skin_id": 22554,
+              "level": 3,
+              "skins": {
+                "id": 22554,
+                "name": "AK-47 | \u53ef\u71c3\u51b0",
+                "bean": "73.69",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/0dad3f628358704bd1592097952a799d.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16595,
+              "box_id": 385,
+              "skin_id": 5634,
+              "level": 4,
+              "skins": {
+                "id": 5634,
+                "name": "\u683c\u6d1b\u514b 18 \u578b | \u6c34\u7075",
+                "bean": "42.24",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/53fa2305c7e2a22e9b6087c8ecc6e56c.png",
+                "dura": 2,
+                "dura_alias": "\u7565\u6709\u78e8\u635f"
+              }
+            },
+            {
+              "id": 16596,
+              "box_id": 385,
+              "skin_id": 24324,
+              "level": 4,
+              "skins": {
+                "id": 24324,
+                "name": "AWP | \u5c3c\u7f57\u6cb3\u6c83\u571f",
+                "bean": "11.00",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/dab4917849994bf399e408b067475565.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            },
+            {
+              "id": 16597,
+              "box_id": 385,
+              "skin_id": 18379,
+              "level": 5,
+              "skins": {
+                "id": 18379,
+                "name": "MAG-7 | \u5317\u51a5\u6709\u9c7c",
+                "bean": "2.49",
+                "cover": "https:\/\/api.mocsgo.com\/uploads\/images\/skins\/c532d2bc9819e7a870f9466cb8596627.png",
+                "dura": 3,
+                "dura_alias": "\u4e45\u7ecf\u6c99\u573a"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "timestamp": 1698456179
+}
